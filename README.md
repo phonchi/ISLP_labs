@@ -3,7 +3,10 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intro-stat-learning/ISLP_labs/v2.1.2)
 
 
-Up-to-date version of labs for ISLP. 
+Modify from the up-to-date version of labs for ISLP on 8/25. Use in the course  https://phonchi.github.io/nsysu-math524/.
+
+The documentation of the ISLP library is available at [https://islp.readthedocs.io/en/latest/index.html](https://islp.readthedocs.io/en/latest/index.html).
+
 
 This repo will track labs for ISLP as their source code changes.  The
 intent is that building a conda environment with
